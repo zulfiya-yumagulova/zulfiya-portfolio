@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zulfiya-portfolio/static/css/main.8e823f49.css",
+    "main.js": "/zulfiya-portfolio/static/js/main.907e1a55.js",
+    "static/media/cv.pdf": "/zulfiya-portfolio/static/media/cv.ec87b9eb81b3e189ed3a.pdf",
+    "static/media/project2.png": "/zulfiya-portfolio/static/media/project2.4d5735edb1839e95687b.png",
+    "static/media/pinit.png": "/zulfiya-portfolio/static/media/pinit.248b408a29a8202c9cce.png",
+    "static/media/photo-of-me.jpg": "/zulfiya-portfolio/static/media/photo-of-me.bdc2fb9bae20f8436f18.jpg",
+    "static/media/me-color (1).jpg": "/zulfiya-portfolio/static/media/me-color (1).559933a7a9de98c93f3f.jpg",
+    "static/media/project1.png": "/zulfiya-portfolio/static/media/project1.6dcf834ca0bf3b58f955.png",
+    "static/media/todo-app.png": "/zulfiya-portfolio/static/media/todo-app.b3e08f0d33d221bd5841.png",
+    "index.html": "/zulfiya-portfolio/index.html",
+    "main.8e823f49.css.map": "/zulfiya-portfolio/static/css/main.8e823f49.css.map",
+    "main.907e1a55.js.map": "/zulfiya-portfolio/static/js/main.907e1a55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e823f49.css",
+    "static/js/main.907e1a55.js"
+  ]
+}
