@@ -6,7 +6,6 @@ import About from "./components/about/About.js";
 import Skills from "./components/skills/Skills.js";
 import Portfolio from "./components/portfolio/Portfolio.js";
 import Contacts from "./components/contacts/Contacts.js";
-import Footer from "./components/footer/Footer.js";
 
 function App() {
   return (
@@ -14,9 +13,9 @@ function App() {
       <Header />
       <Nav />
       <About />
+      <Skills />
       <Portfolio />
       <Contacts />
-      <Footer />
     </div>
   );
 }

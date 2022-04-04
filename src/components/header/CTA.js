@@ -1,4 +1,5 @@
 import React from "react";
+import "./Header.css";
 import CV from "../../images/cv.pdf";
 
 function CTA() {
@@ -7,7 +8,7 @@ function CTA() {
       <a href={CV} className="btn" download>
         Download CV
       </a>
-      <a href="#contact" className="btn btn-primary">
+      <a href="#contacts" className="btn btn-primary">
         Let's Talk
       </a>
     </div>

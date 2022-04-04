@@ -9,6 +9,7 @@ function Socials() {
       <a
         href="https://www.linkedin.com/in/zulfiya-yumagulova-7929ab1b8/"
         target="_blank"
+        rel="noreferrer"
       >
         {" "}
         <BsLinkedin />{" "}
@@ -16,6 +17,7 @@ function Socials() {
       <a
         href="https://github.com/zulfiya-yumagulova?tab=repositories"
         target="_blank"
+        rel="noreferrer"
       >
         {" "}
         <FaGithub />{" "}
