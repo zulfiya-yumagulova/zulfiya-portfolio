@@ -60,7 +60,7 @@ textarea {
 /* Responsive  */
 /* Media Query (Tablets) */
 @media screen and (max-width: 1024px) {
-  .contaner {
+  .container.contact-container {
     grid-template-columns: 1fr;
     gap: 2rem;
   }
@@ -68,7 +68,11 @@ textarea {
 
 /* Media Query (Mobiles) */
 @media screen and (max-width: 600px) {
-  .contaner {
-    width: var(--container-width-sm);
+  .container.contact-container {
+    margin-top: 60rem;
+    width: 90%;
+  }
+  form {
+    margin-bottom: 7rem;
   }
 }
