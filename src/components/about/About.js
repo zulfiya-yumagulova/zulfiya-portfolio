@@ -16,7 +16,7 @@ function About() {
 
         <div className="about-content">
           <p>
-            I am full stack web developer. Gradueted from School Of Code's
+            I am full stack web developer. Graduated from School Of Code's
             remote intensive bootcamp. Trained to industry standards through
             extensive focus on the fundamentals of software development, problem
             solving, pair-programming and agile project management. Regularly
