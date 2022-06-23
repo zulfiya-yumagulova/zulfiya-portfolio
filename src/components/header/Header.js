@@ -12,7 +12,7 @@ function Header() {
         <h1>Zulfiya Yumagulova</h1>
         <h5 className="text-light">Fullstack Developer</h5>
 
-        <CTA />
+        {/* <CTA /> */}
         <Socials />
         <div className="me">
           <img src={ME} alt="me" id="img-me" />
