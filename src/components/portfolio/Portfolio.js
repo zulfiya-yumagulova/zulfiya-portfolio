@@ -4,6 +4,7 @@ import IMG1 from "../../images/project1.png";
 import IMG2 from "../../images/project2.png";
 import IMG3 from "../../images/todo-app.png";
 import IMG4 from "../../images/pinit.png";
+import IMG5 from "../../images/news-app.png";
 
 const data = [
   {
@@ -34,6 +35,20 @@ const data = [
     github:
       "https://github.com/zulfiya-yumagulova/national-project-week-professional-artists",
     demo: "https://pinitapp.netlify.app/",
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: "News App",
+    github: "https://github.com/zulfiya-yumagulova/news-app",
+    demo: "https://newsapp-zulfiya.netlify.app/",
+  },
+  {
+    id: 6,
+    // image: IMG5,
+    title: "Fullstack Todo App",
+    github: "https://github.com/zulfiya-yumagulova/todo-app-fullstack",
+    demo: "",
   },
 ];
 
